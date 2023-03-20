@@ -1324,11 +1324,11 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar {
-    max-height: 180px;
-    margin-bottom: 30px;
+    max-height: 156px;
+    margin-bottom: 15px;
   }
 
-  .sidebar.active { max-height: 584px; }
+  .sidebar.active { max-height: 412px; }
 
   .sidebar-info { gap: 25px; }
 

@@ -1287,6 +1287,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 520px;
     margin-inline: auto;
     padding: 30px;
+    
   }
 
   .article-title {
@@ -1324,13 +1325,13 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar {
-    max-height: 156px;
+    max-height: 190px;
     margin-bottom: 15px;
   }
 
-  .sidebar.active { max-height: 412px; }
+  .sidebar.active { max-height: 480px; }
 
-  .sidebar-info { gap: 25px; }
+  .sidebar-info { gap: 30px; }
 
   .avatar-box { border-radius: 30px; }
 

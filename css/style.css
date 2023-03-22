@@ -177,6 +177,8 @@ article {
   margin: 16px 0;
 }
 
+
+
 .icon-box {
   position: relative;
   background: var(--border-gradient-onyx);
@@ -1324,11 +1326,11 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
    .sidebar {
-    max-height: 180px;
+    max-height: 181px;
     margin-bottom: 30px;
   }
 
-  .sidebar.active { max-height: 584px; }
+  .sidebar.active {max-height: 585px;}
 
   .sidebar-info { gap: 25px; }
 

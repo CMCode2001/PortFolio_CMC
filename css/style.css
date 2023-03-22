@@ -325,11 +325,11 @@ main {
   align-items: center;
   gap: 15px;
 }
-
+/* 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 80px;
-}
+  border-radius: 40px;
+} */
 
 .info-content .name {
   color: var(--white-2);
